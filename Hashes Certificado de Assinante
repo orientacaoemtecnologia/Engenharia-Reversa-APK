@@ -1,0 +1,16 @@
+APK is signed
+v1 signature: True
+v2 signature: False
+v3 signature: False
+Found 1 unique certificates
+Subject: ST=Portugal
+Signature Algorithm: rsassa_pkcs1v15
+Valid From: 2009-09-22 14:53:51+00:00
+Valid To: 2034-09-16 14:53:51+00:00
+Issuer: ST=Portugal
+Serial Number: 0x4b7e2629
+Hash Algorithm: sha256
+md5: bb8020d9103cec9b9ba7fd63ec4f12d2
+sha1: 197583c8271eb67c1874059c11bb146521bc3fbe
+sha256: aee62177c34deef2d9b5afa6ab04e9ec12a368ff38919b8976be5b86c77ebcbe
+sha512: a14da614d3943ebd3e2d605b4cd040d76408f5ab52ea5c984743d6bbe2aa7788fa5addb4147b4fbb74493a49e646aaad1ad6f7cae368b9b9e965c0eed0fd7fba
