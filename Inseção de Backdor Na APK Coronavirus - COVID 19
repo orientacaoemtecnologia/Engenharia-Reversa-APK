@@ -114,6 +114,15 @@ ________|__________|__________________________________________
 [*] Adding hook in original smali file...done.
 [*] Adding persistence hook in original project...done.
 [*] Recompiling original project with backdoor...
+[*] Generating RSA key for signing...done.
+[*] Signing recompiled APK...done.
+[*] Verifying signed artifacts...done.
+[*] Aligning recompiled APK...done.
+[*] Backdoor apk created succefully 
+
+Foi renomeado a apk para o nome: Convit19_Grafico.apk
+Agora vamos começar a fazer a Egenharia Reversa deste APP
+
 
 
  
