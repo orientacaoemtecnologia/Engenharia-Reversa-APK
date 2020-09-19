@@ -77,6 +77,41 @@ sha256: aee62177c34deef2d9b5afa6ab04e9ec12a368ff38919b8976be5b86c77ebcbe
 
 sha512: a14da614d3943ebd3e2d605b4cd040d76408f5ab52ea5c984743d6bbe2aa7788fa5addb4147b4fbb74493a49e646aaad1ad6f7cae368b9b9e965c0eed0fd7fba
 
+***Compilador: dexlib 2.x***
+
+classes3.dex = 
+Anti Debug Code: 
+Debug.isDebuggerConnected() check
+
+Anti-VM Code: 
+Build.FINGERPRINT check
+Build.MODEL check
+Build.MANUFACTURER check
+Build.PRODUCT check
+Build.BOARD check
+Build.TAGS check
+SIM operator check
+network operator name check
+
+classes2.dex =
+Anti-VM Code: 
+Build.FINGERPRINT check
+Build.MODEL check
+Build.MANUFACTURER check
+Build.PRODUCT check
+SIM operator check
+network operator name check
+
+classes.dex = 
+Anti-VM Code: 
+Build.FINGERPRINT check
+Build.MODEL check
+Build.MANUFACTURER check
+Build.PRODUCT check
+possible Build.SERIAL check
+network operator name check
+device ID check
+
 ***C2 Address***
 
 23.61.119.125 
