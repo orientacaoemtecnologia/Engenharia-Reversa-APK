@@ -83,6 +83,7 @@ classes3.dex =
 Anti Debug Code: 
 Debug.isDebuggerConnected() check
 
+classes3.dex = 
 Anti-VM Code: 
 Build.FINGERPRINT check
 Build.MODEL check
