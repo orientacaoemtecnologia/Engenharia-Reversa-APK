@@ -1,6 +1,12 @@
 # Engenharia-Reversa-APK
-Este conteúdo foi criado para Fins Educativos de Engenharia Reversa. Não instale o APP Convit19_Grafico.apk
-Pois o mesmo encontre-se infectado.
+Este conteúdo foi criado para Fins Educativos de Engenharia Reversa. 
+No intuito de mostrar como inserir uma backdor em uma APK Original;
+O objetivo da desta backdor, é dar para ao atacando o acesso ao celular da vitima, então após a vitima instalar 
+a aplicação infectada o atacante vai conseguir o acesso via Man-In-The-Middle.
+No entanto para esta demostração foi baixado a apk coronavirus-covid-19, onde através desta APK Original 
+foi injetado Virus Malicioso e renomeado para Convit19_Grafico.apk para que possamos iniciar a 
+analise de engenharia reversa.
+Não instale o app Convit19_Grafico.apk
 
 # Hashes-do-Arquivo
 MD5 66ff06fe9a8b9b4d0eaaf5bd96bf8f1f
