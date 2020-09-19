@@ -10,15 +10,25 @@ Não instale o app Convit19_Grafico.apk
 
 # Antivirus que detectou ameaça
 AhnLab-V3                  Backdoor/Android.HiddenSploit.734097
+
 Avast                      Android:Metasploit-Q [PUP]
+
 Avast-Mobile Android:      Metasploit-Q [PUP]
+
 AVG Android:               Metasploit-Q [PUP]
+
 Avira (no cloud)           ANDROID/Dldr.Agent.PAF.Gen
+
 DrWeb                      Android.RemoteCode.68
+
 ESET-NOD32                 A Variant Of Android/TrojanDownloader.Agent.JN
+
 F-Secure                   Malware.ANDROID/Dldr.Agent.BI.Gen
+
 Fortinet                   Android/Agent.JN!tr
+
 Kaspersky                  HEUR:Trojan-Downloader.AndroidOS.Masplot.a
+
 ZoneAlarm by Check Point   HEUR:Trojan-Downloader.AndroidOS.Masplot.a
 
 # Hashes do Arquivo
