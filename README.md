@@ -12,16 +12,26 @@ Não instale o app Convit19_Grafico.apk
 
 Inseção de Backdor Na APK Coronavirus - COVID 19
 
-# Aquivo Malicoso
+# Arquivo APK Original
+
+coronavirus-covid-19.apk
+
+# Arquivo APK Malicoso
 
 Convit19_Grafico.apk
 
 # As Iocs estão contidas nos arquivos
 
 C2 Address
+
 HARDCODED SECRETS
+
 Hashes Certificado de Assinante
+
 Hashes do Arquivo
+
 Informações do APP
+
 Malware Analise
+
 STRINGS
